@@ -2,7 +2,9 @@
 
 A lightweight, from-scratch implementation of Base64 encoding and decoding in Go using low-level bitwise operations as specified in [RFC 4648](https://datatracker.ietf.org/doc/html/rfc4648#section-4).
 
-> **Note**: This project was built for **educational and learning purposes** to explore and understand how Base64 bit manipulation, buffering, and padding work under the hood without relying on Go's built-in `encoding/base64` package. It was implemented while referencing Wikipedia and YouTube video explanations, so the code is unoptimized and messy. It is not intended for production use.
+> [!NOTE]
+> **Disclaimer / Learning Project:**  
+> This was coded purely for learning and understanding how the algorithm works under the hood. It was implemented while referencing Wikipedia and YouTube video explanations, so the code is unoptimized and messy. It is not intended for production use.
 
 ---
 
